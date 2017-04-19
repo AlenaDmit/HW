@@ -7,3 +7,4 @@
 * Пример для исследования: [презентация]()
 * [Задание](http://kodaktor.ru/puzzle.pdf): вывести факториал числа как минимум 2мя способами; ответ: o.f(5); и o['f'] (5);
 * [Задание](https://kodaktor.ru/fetch_task): дописать код кнопки и сигнатуру функции fetch; [ответ](https://kodaktor.ru/fetch_f9968) 
+* [Задание](https://kodaktor.ru/ed1fb07): изменить код, чтобы происходил парс json'a в таблицу; [ответ](https://kodaktor.ru/ed1fb07_cb3ea)
